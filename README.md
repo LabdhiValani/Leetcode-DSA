@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -41,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Prefix Sum
@@ -60,6 +62,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -71,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->

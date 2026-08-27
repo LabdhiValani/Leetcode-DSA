@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1089-duplicate-zeros](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1089-duplicate-zeros](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

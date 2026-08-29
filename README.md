@@ -36,12 +36,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1089-duplicate-zeros](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
 | Problem Name | Difficulty |

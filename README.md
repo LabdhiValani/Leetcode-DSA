@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
@@ -85,6 +87,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |

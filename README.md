@@ -47,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -76,6 +77,7 @@
 | [0001-two-sum](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -93,6 +95,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Simulation

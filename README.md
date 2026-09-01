@@ -49,6 +49,7 @@
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3136-valid-word](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3136-valid-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

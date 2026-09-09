@@ -10,6 +10,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3870-count-commas-in-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Bit Manipulation

@@ -10,6 +10,7 @@
 | [0836-rectangle-overlap](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3870-count-commas-in-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |

@@ -71,16 +71,19 @@
 | [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3136-valid-word](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3136-valid-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Hash Table

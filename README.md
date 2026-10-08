@@ -12,6 +12,7 @@
 | [0836-rectangle-overlap](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -25,6 +26,7 @@
 | [0231-power-of-two](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |

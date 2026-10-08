@@ -16,6 +16,7 @@
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

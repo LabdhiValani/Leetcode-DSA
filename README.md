@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
@@ -131,6 +132,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

@@ -47,6 +47,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
@@ -37,6 +38,7 @@
 | [0014-longest-common-prefix](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -61,6 +63,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |

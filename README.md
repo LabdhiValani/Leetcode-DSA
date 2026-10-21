@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -64,6 +65,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0344-reverse-string/) | Easy |

@@ -16,6 +16,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2235-add-two-integers](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3870-count-commas-in-range/) | Easy |

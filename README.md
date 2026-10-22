@@ -82,6 +82,7 @@
 | [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3136-valid-word](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3136-valid-word/) | Easy |

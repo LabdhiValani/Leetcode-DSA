@@ -49,6 +49,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -145,6 +146,7 @@
 | [0258-add-digits](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,8 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0342-power-of-four/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->

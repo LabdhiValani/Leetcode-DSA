@@ -39,6 +39,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -117,6 +118,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -128,6 +130,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -140,6 +143,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -176,4 +180,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LabdhiValani/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
